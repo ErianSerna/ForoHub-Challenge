@@ -21,11 +21,11 @@
 <hr>
 
 ##  Secciones
-> - [ Comenzemos](#-Comenzemos)
->   - [ Instalación](#-Instalación)
->   - [ Ejecutando ForoHub-Challenge](#-Ejecutando-ForoHub-Challenge)
->   - [ Tests](#-Tests)
-> - [ Contribuyendo](#-Contribuyendo)
+> - [ Comenzemos](#comenzemos)
+>   - [ Instalación](#instalación)
+>   - [ Ejecutando ForoHub-Challenge](#ejecutando-foroHub-challenge)
+>   - [ Tests](#tests)
+> - [ Contribuyendo](#contribuyendo)
 
 ---
 
