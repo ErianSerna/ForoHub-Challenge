@@ -13,7 +13,7 @@
 	<img src="https://img.shields.io/github/languages/count/ErianSerna/ForoHub-Challenge?style=flat&color=0080ff" alt="repo-language-count">
 <p>
 <p align="center">
-		<em>Desarrollado en Intelij con Spring.</em>
+		<em>Desarrollado en IntelliJ con Spring.</em>
 </p>
 <p align="center">
 	<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white" alt="java">
@@ -21,11 +21,11 @@
 <hr>
 
 ##  Secciones
-> - [ Comenzemos](#-getting-started)
->   - [ Instalación](#-installation)
->   - [ Ejecutando ForoHub-Challenge](#-running-ForoHub-Challenge)
->   - [ Tests](#-tests)
-> - [ Contribuyendo](#-contributing)
+> - [ Comenzemos](#-Comenzemos)
+>   - [ Instalación](#-Instalación)
+>   - [ Ejecutando ForoHub-Challenge](#-Ejecutando-ForoHub-Challenge)
+>   - [ Tests](#-Tests)
+> - [ Contribuyendo](#-Contribuyendo)
 
 ---
 
@@ -88,6 +88,6 @@ mvn test
 
 ---
 
-[**Volver**](#-quick-links)
+[**Volver**](#-Secciones)
 
 ---
