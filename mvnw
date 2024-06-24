@@ -58,7 +58,7 @@ set_java_home() {
         echo "JAVA_HOME is set to \"$JAVA_HOME\", but \"\$JAVA_HOME/bin/java\" or \"\$JAVA_HOME/bin/javac\" does not exist." >&2
         return 1
       fi
-    fi
+    fi 
   else
     JAVACMD="$(
       'set' +e
